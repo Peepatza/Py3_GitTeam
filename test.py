@@ -1,2 +1,2 @@
 print("Pee&Fay Team")
-print("Peepatt")
+print("Peepat")
